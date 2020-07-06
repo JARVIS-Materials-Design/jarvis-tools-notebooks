@@ -7,7 +7,7 @@ To start a Colab notebook, click on the colab image on top of them
  .. image :: https://colab.research.google.com/assets/colab-badge.svg 
 
 
-1) `python_beginners_notebook <https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/python_beginners_notebook.ipynb>`__
+1) `Python_beginners_notebook <https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/python_beginners_notebook.ipynb>`__
 
 2) `Simple_Silicon_atomic_structure_and_analysis_example <https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Silicon_atomic_structure_and_analysis_example.ipynb>`__
 
