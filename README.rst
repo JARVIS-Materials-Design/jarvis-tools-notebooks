@@ -7,7 +7,7 @@ To start a Colab notebook, click on the colab image on top of them
  .. image :: https://colab.research.google.com/assets/colab-badge.svg 
 
 
-1) `python_beginners_notebook <https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/python_beginners_notebook.ipynb>`__
+1) `Python_beginners_notebook <https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/python_beginners_notebook.ipynb>`__
 
 2) `Simple_Silicon_atomic_structure_and_analysis_example <https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Silicon_atomic_structure_and_analysis_example.ipynb>`__
 
@@ -29,4 +29,4 @@ To start a Colab notebook, click on the colab image on top of them
 
 11) `JARVIS_ML_TrainingGPU <https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TrainingGPU.ipynb>`__
 
-
+For more details, checkout our latest article:  `JARVIS: An Integrated Infrastructure for Data-driven Materials Design <https://arxiv.org/abs/2007.01831>`__
