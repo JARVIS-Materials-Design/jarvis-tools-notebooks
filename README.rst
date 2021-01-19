@@ -31,4 +31,7 @@ To start a Colab notebook, click on the colab image on top of them
 
 12)  `Making 2D heterostructures <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/Making_2D_heterostructures.ipynb>`__
 
+13) `Downloading raw analysis data and input/output files <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Download_raw_data_for_webpages.ipynb>`__
+
+
 For more details, checkout our latest article:  `The joint automated repository for various integrated simulations (JARVIS) for data-driven materials design <https://www.nature.com/articles/s41524-020-00440-1>`__
