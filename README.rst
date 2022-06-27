@@ -30,11 +30,11 @@ JARVIS Homepage: https://jarvis.nist.gov/
 
 11) `JARVIS_ML_TrainingGPU <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TrainingGPU.ipynb>`__
 
-12)  `Making 2D heterostructures <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/Making_2D_heterostructures.ipynb>`__
+12)  `Making 2D heterostructures <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Making_2D_heterostructures.ipynb>`__
 
 13) `Downloading raw analysis data and input/output files <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Download_raw_data_for_webpages.ipynb>`__
 14) `Make JARVIS STM images for 2D materials <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_STM_images.ipynb>`__
-15) `JARVIS-ML for chemical formula only datasets <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/JARVIS_ML_for_chemical_formula_only_datasets.ipynb>`__
+15) `JARVIS-ML for chemical formula only datasets <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_for_chemical_formula_only_datasets.ipynb>`__
 16) `Get JARVIS-DFT final structures in ASE or Pymatgen format <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Get_JARVIS_DFT_final_structures_in_ASE_or_Pymatgen_format.ipynb>`__
 17) `Quantum computation and Qiskit based electronic bandstructure <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_.ipynb>`__
 18) `Analyzing_MOF_datasets <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_MOF_datasets.ipynb>`__
