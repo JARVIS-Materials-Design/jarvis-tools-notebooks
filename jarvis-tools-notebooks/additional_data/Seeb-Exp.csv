@@ -1,0 +1,15 @@
+﻿Formu,Exp,DFT,JID,Doping conc.(/cm3),type,T(K),Spg,,,Ref,Function,path,MBJ
+Bi2Te3,116,124.7356584,JVASP-25,7.78E+19,p,420,166,,,MP-paper,"get_formula('Bi2Te3',temp=400,dop=1e20,dop_type='p')",/rk2/knc6/JARVIS-DFT/2D-bulk/mp-34202_bulk_PBEBO,
+Bi2Se3,-70,-136.9,JVASP-1067,-2.20E+19,n,420,166,,,MP-paper,"get_formula('Bi2Se3',temp=400,dop=1e19,dop_type='n')",/rk2/knc6/JARVIS-DFT/TE-bulk/mp-541837_bulk_PBEBO,
+CuInTe2,254,203.5363819,JVASP-3495,1.60E+19,P,300,122,,,PDF,"get_formula('CuInTe2',temp=400,dop=1e20,dop_type='p')",/rk2/knc6/JARVIS-DFT/Solar-Semi/mp-22261_bulk_PBEBO,/rk2/knc6/JARVIS-DFT/Solar-Semi/mp-22261_bulk_PBEBO/MAIN-MBJ-bulk@mp_22261/boltz2data.json
+CuGaTe2,380,448.9839056,JVASP-2295,1.00E+18,p,300,122,,,PDF,"get_formula('CuGaTe2',temp=300,dop=1e17,dop_type='p')", /rk2/knc6/JARVIS-DFT/Solar-Semi/mp-3839_bulk_PBEBO,/rk2/knc6/JARVIS-DFT/Solar-Semi/mp-3839_bulk_PBEBO/MAIN-MBJ-bulk@mp_3839/boltz2data.json
+AgTlTe,550,721,JVASP-9744,1.00E+17,p,320,62,,,PDF,"get_formula('AgTlTe',temp=300,dop=1e17,dop_type='p')",/rk2/knc6/JARVIS-DFT/Solar-SemiRaritan20/mp-5874_PBEBO,/rk2/knc6/JARVIS-DFT/Solar-SemiRaritan20/mp-5874_PBEBO/MAIN-MBJ-bulk@mp_5874/boltz2data.json
+ErNiSb,258,268.70996,JVASP-1903,1.42E+19,p,335,216,,,PDF,"get_formula('ErNiSb',temp=300,dop=1e19,dop_type='p')", /rk2/knc6/JARVIS-DFT/Solar-Semi/mp-21272_bulk_PBEBO,/rk2/knc6/JARVIS-DFT/Solar-Semi/mp-21272_bulk_PBEBO/MAIN-MBJ-bulk@mp_21272/boltz2data.json
+Cu2ZnSnSe4,-26.01466175,-23.98,JVASP-17430,1.00E+18,p,293,121,,,PDF,"get_formula('Cu2ZnSnSe4',temp=300,dop=1e18,dop_type='p')",/rk2/knc6/JARVIS-DFT/Met-Rar/mp-16564_PBEBO,
+CoNbSn,-69,-2.22,JVASP-18668,5.97E+16,p,318,216,,,PDF,"get_formula('CoNbSn',temp=300,dop=1e17,dop_type='p')",/rk2/knc6/JARVIS-DFT/Met-Rar/mp-30560_PBEBO,
+AlFe2V,-107,-32.39113,JVASP-15637,5.00E+20,n,300,225,,,PDF,"get_formula('AlFe2V',temp=300,dop=1e20,dop_type='n')",/rk2/knc6/JARVIS-DFT/Met-Rar/mp-5778_PBEBO,runhere
+CoSbZr,-62,-43.995288,JVASP-18207,2.72E+20,n,335,216,,,PDF,"get_formula('CoSbZr',temp=300,dop=1e21,dop_type='n')",/rk2/knc6/JARVIS-DFT/Met-Rar/mp-22377_PBEBO,
+SnSe,586,674.7,JVASP-299,3.16E+17,p,523,62,,,Mp-paper,"get_formula('SnSe',temp=500,dop=1e17,dop_type='p')", /rk2/knc6/JARVIS-DFT/2D-bulk/mp-691_bulk_PBEBO,/rk2/knc6/JARVIS-DFT/2D-bulk/mp-691_bulk_PBEBO/MAIN-MBJ-bulk@mp_691/boltz2data.json
+SnTe,103,111.855,JVASP-7860,1.00E+21,p,817,225,,,MP-paper,"get_formula('SnTe',temp=800,dop=1e21,dop_type='p')",/rk2/knc6/JARVIS-DFT/Solar-SemiRaritan/mp-1883_PBEBO,/rk2/knc6/JARVIS-DFT/Solar-SemiRaritan/mp-1883_PBEBO/MAIN-MBJ-bulk@mp_1883/boltz2data.json
+Cu2Se,258,148.2624,JVASP-18192,2.00E+21,p,900,216,,,Mp-paper,"get_formula('Cu2Se',temp=900,dop=1e21,dop_type='p')",/rk2/knc6/JARVIS-DFT/Met-Rar/mp-22297_PBEBO,runhere
+Mg2Sn,-71.5,-91.338711,JVASP-14507,-2.00E+19,n,400,225,,,Mp-paper,"get_formula('Mg2Sn',temp=400,dop=1e20,dop_type='n')",/rk2/knc6/JARVIS-DFT/Met-Rar/mp-2343_PBEBO,runhere
