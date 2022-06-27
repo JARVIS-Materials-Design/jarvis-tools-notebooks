@@ -6,6 +6,7 @@ JARVIS-Tools Notebooks: Collection of Jupyter/ Google-Colab notebooks
 To start a Colab notebook, click on the colab image on top of them
  .. image :: https://colab.research.google.com/assets/colab-badge.svg 
 
+JARVIS Homepage: https://jarvis.nist.gov/
 
 1) `Python_beginners_notebook <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/python_beginners_notebook.ipynb>`__
 
@@ -58,4 +59,6 @@ To start a Colab notebook, click on the colab image on top of them
 37) `JARVIS_STEM_2D <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_STEM_2D.ipynb>`__
 38) `ParsingWebpages(JARVIS_DFT) <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ParsingWebpages(JARVIS_DFT).ipynb>`__
 39) `Element_filter_for_JARVIS_DFT_dataset <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Element_filter_for_JARVIS_DFT_dataset.ipynb>`__
-For more details, checkout our latest article:  `The joint automated repository for various integrated simulations (JARVIS) for data-driven materials design <https://www.nature.com/articles/s41524-020-00440-1>`__
+
+
+For more details, checkout :  1) `The joint automated repository for various integrated simulations (JARVIS) for data-driven materials design <https://www.nature.com/articles/s41524-020-00440-1>`__ , 2) `other publications <https://jarvis-tools.readthedocs.io/en/master/publications.html>`__
