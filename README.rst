@@ -50,12 +50,12 @@ To start a Colab notebook, click on the colab image on top of them
 29) `JARVIS_TE_Data_driven_discovery_of_3D_and_2D_thermoelectric_materials <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_TE_Data_driven_discovery_of_3D_and_2D_thermoelectric_materials.ipynb>`__
 30) `JARVIS_TopologicalSpillage_High_throughput_Discovery_of_Topologically_Non_trivial_Materials_using_Spin_orbit_Spillage <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_TopologicalSpillage_High_throughput_Discovery_of_Topologically_Non_trivial_Materials_using_Spin_orbit_Spillage.ipynb>`__
 31) `JARVIS_WTBH_Database_of_Wannier_tight_binding_Hamiltonians_using_high_throughput_density_functional_theory <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_WTBH_Database_of_Wannier_tight_binding_Hamiltonians_using_high_throughput_density_functional_theory.ipynb>`__
-33) `JARVIS_ALIGNN_Training_example <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Training_ALIGNN_model_example.ipynb>`__
-34)  `AtomVisionExample <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb>`__
-35)  `Comapre_MP_JV <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Comapre_MP_JV.ipynb>`__
-36)  `ConvexHull <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ConvexHull.ipynb>`__
-37)  `DimensionalityAndExfoliationEnergy <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/DimensionalityAndExfoliationEnergy.ipynb>`__
-38) `JARVIS_STEM_2D <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_STEM_2D.ipynb>`__
-39) `ParsingWebpages(JARVIS_DFT) <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ParsingWebpages(JARVIS_DFT).ipynb>`__
-40) `Element_filter_for_JARVIS_DFT_dataset <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Element_filter_for_JARVIS_DFT_dataset.ipynb>`__
+32) `JARVIS_ALIGNN_Training_example <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Training_ALIGNN_model_example.ipynb>`__
+33)  `AtomVisionExample <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb>`__
+34)  `Comapre_MP_JV <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Comapre_MP_JV.ipynb>`__
+35)  `ConvexHull <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ConvexHull.ipynb>`__
+36)  `DimensionalityAndExfoliationEnergy <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/DimensionalityAndExfoliationEnergy.ipynb>`__
+37) `JARVIS_STEM_2D <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_STEM_2D.ipynb>`__
+38) `ParsingWebpages(JARVIS_DFT) <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ParsingWebpages(JARVIS_DFT).ipynb>`__
+39) `Element_filter_for_JARVIS_DFT_dataset <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Element_filter_for_JARVIS_DFT_dataset.ipynb>`__
 For more details, checkout our latest article:  `The joint automated repository for various integrated simulations (JARVIS) for data-driven materials design <https://www.nature.com/articles/s41524-020-00440-1>`__
