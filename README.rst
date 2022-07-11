@@ -8,6 +8,18 @@ To start a Colab notebook, click on the colab image on top of them
 
 JARVIS Homepage: https://jarvis.nist.gov/
 
+AIMS 2022 Workshop Notebooks:
+
+1) `Beginner_ML_in_Python <https://colab.research.google.com/github/RamyaGuru/jarvis-tools-notebooks/blob/master/AIMS2022_Python_Basics.ipynb>`__ 
+
+2) `ALIGNN_Training_Example <https://colab.research.google.com/github/RamyaGuru/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ALIGNN_example_AIMS.ipynb>`__
+
+3) `ML_Chem_Formula_Descriptors <https://colab.research.google.com/github/RamyaGuru/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_Magpie_AIMS.ipynb>`__ 
+
+4) `AtomVision_Example <https://colab.research.google.com/github/RamyaGuru/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb>`__
+
+
+General notebooks:
 1) `Python_beginners_notebook <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/python_beginners_notebook.ipynb>`__
 
 2) `Simple_Silicon_atomic_structure_and_analysis_example <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Silicon_atomic_structure_and_analysis_example.ipynb>`__
