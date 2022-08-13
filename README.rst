@@ -72,6 +72,7 @@ General notebooks:
 37) `JARVIS_STEM_2D <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_STEM_2D.ipynb>`__
 38) `ParsingWebpages(JARVIS_DFT) <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ParsingWebpages(JARVIS_DFT).ipynb>`__
 39) `Element_filter_for_JARVIS_DFT_dataset <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Element_filter_for_JARVIS_DFT_dataset.ipynb>`__
+40) `Run GPAW on Google-colab and calculate interface energy with jarvis-tools <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/GPAW_Colab.ipynb>`__
 
 
 For more details, checkout :  1) `The joint automated repository for various integrated simulations (JARVIS) for data-driven materials design <https://www.nature.com/articles/s41524-020-00440-1>`__ , 2) `other publications <https://jarvis-tools.readthedocs.io/en/master/publications.html>`__
