@@ -10,13 +10,13 @@ JARVIS Homepage: https://jarvis.nist.gov/
 
 AIMS 2022 Workshop Notebooks:
 
-1) `Beginner_ML_in_Python <https://colab.research.google.com/github/RamyaGuru/jarvis-tools-notebooks/blob/master/AIMS2022_Python_Basics.ipynb>`__ 
+1) `Beginner_ML_in_Python <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AIMS2022_Python_Basics.ipynb>`__ 
 
-2) `ALIGNN_Training_Example <https://colab.research.google.com/github/RamyaGuru/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ALIGNN_example_AIMS.ipynb>`__
+2) `ALIGNN_Training_Example <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ALIGNN_example_AIMS.ipynb>`__
 
-3) `ML_Chem_Formula_Descriptors <https://colab.research.google.com/github/RamyaGuru/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_Magpie_AIMS.ipynb>`__ 
+3) `ML_Chem_Formula_Descriptors <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_Magpie_AIMS.ipynb>`__ 
 
-4) `AtomVision_Example <https://colab.research.google.com/github/RamyaGuru/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb>`__
+4) `AtomVision_Example <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb>`__
 
 
 General notebooks:
