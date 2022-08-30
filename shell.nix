@@ -50,16 +50,6 @@ let
      doCheck = false;
   };
 
-  # numpy = pypkgs.numpy.overridePythonAttrs (old: rec {
-  #   version = "1.22.3";
-  #   pname = "numpy";
-  #   src = pypkgs.fetchPypi {
-  #    inherit pname version;
-  #    extension = "zip";
-  #    hash = "sha256-28dgGjt0ctVZ3HuTOxi0tm+ap0UsEg6H37M9AgCMihg=";
-  #  };
-  # });
-
   matminer = pypkgs.buildPythonPackage rec {
     pname = "matminer";
     version = "0.6.5";
@@ -133,7 +123,7 @@ let
 
 in
   pkgs.mkShell rec {
-    pname = "snakemake-tutorial";
+    pname = "jarvis-notebooks";
     nativeBuildInputs = with pypkgs; [
       jupyter
       jupyter_extra
@@ -144,6 +134,8 @@ in
       plotly
       nbval
       pytest
+      black
+      pylint
     ];
     shellHook = ''
 
