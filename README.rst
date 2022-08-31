@@ -1,9 +1,12 @@
+.. class:: center
 
+.. image:: https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks/actions/workflows/test-notebooks.yml/badge.svg
+        :target: https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks 
 ========================================================================================
 
 JARVIS-Tools Notebooks: Collection of Jupyter/ Google-Colab notebooks
 =========================================================================================
-To start a Colab notebook, click on the colab image on top of them
+To start a Colab notebook, click on the colab image on top of the notebook files
  .. image :: https://colab.research.google.com/assets/colab-badge.svg 
 
 JARVIS Homepage: https://jarvis.nist.gov/
