@@ -11,6 +11,24 @@ To start a Colab notebook, click on the colab image on top of the notebook files
 
 JARVIS Homepage: https://jarvis.nist.gov/
 
+JARVIS-School Notebooks:
+
+1) `Beginner_ML_in_Python <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AIMS2022_Python_Basics.ipynb>`__ 
+
+2) `Analyzing_data_in_the_JARVIS_DFT_dataset <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb>`__
+
+3)  `JARVIS_Optoelectronics_Computational_screening_of_high_performance_optoelectronic_materials_using_OptB88vdW_and_TB_mBJ_formalisms <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_Optoelectronics_Computational_screening_of_high_performance_optoelectronic_materials_using_OptB88vdW_and_TB_mBJ_formalisms.ipynb>`__
+
+4) `JARVIS_TopologicalSpillage_High_throughput_Discovery_of_Topologically_Non_trivial_Materials_using_Spin_orbit_Spillage <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_TopologicalSpillage_High_throughput_Discovery_of_Topologically_Non_trivial_Materials_using_Spin_orbit_Spillage.ipynb>`__
+
+5) `JARVIS_Solar_Accelerated_Discovery_of_Efficient_Solar_Cell_Materials_Using_Quantum_and_Machine_Learning_Methods <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_Solar_Accelerated_Discovery_of_Efficient_Solar_Cell_Materials_Using_Quantum_and_Machine_Learning_Methods.ipynb>`__
+
+6) `JARVIS_ALIGNN_Training_example <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Training_ALIGNN_model_example.ipynb>`__
+
+7) `With new qiskit package: Quantum computation and Qiskit based electronic bandstructure <https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_latest_qiskit.ipynb>`__
+
+8) `JARVIS_STEM_2D <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_STEM_2D.ipynb>`__
+
 AIMS 2022 Workshop Notebooks:
 
 1) `Beginner_ML_in_Python <https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AIMS2022_Python_Basics.ipynb>`__ 
