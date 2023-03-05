@@ -25,7 +25,7 @@ The JARVIS-Tools Notebooks is Collection of Jupyter/ Google-Colab notebooks to p
 
 <a name="aps"></a>
 # APS2023 tutorial
-35, 38, 39
+[35](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Training_ALIGNN_model_example.ipynb), [38](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb), [39](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ChemNLP_Example.ipynb)
 
 [More info](https://march.aps.org/events/tutorial-graph-neural-networks)
 
