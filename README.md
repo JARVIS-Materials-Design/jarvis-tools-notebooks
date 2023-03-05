@@ -25,7 +25,7 @@ The JARVIS-Tools Notebooks is Collection of Jupyter/ Google-Colab notebooks to p
 
 <a name="aps"></a>
 # APS2023 tutorial
-35, 38, 39
+[35](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Training_ALIGNN_model_example.ipynb), [38](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb), [39](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ChemNLP_Example.ipynb)
 
 [More info](https://march.aps.org/events/tutorial-graph-neural-networks)
 
@@ -87,7 +87,7 @@ The JARVIS-Tools Notebooks is Collection of Jupyter/ Google-Colab notebooks to p
 36) [Simple_Machine_learning_training_example_with_CFID_descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Machine_learning_training_example_with_CFID_descriptors.ipynb)
 37) [ML_Chem_Formula_Descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_Magpie_AIMS.ipynb)
 38) [AtomVision_Example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb)
-39) [ChemNLP example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/ChemNLP_Example.ipynb)
+39) [ChemNLP example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ChemNLP_Example.ipynb)
 40) [JARVIS_ML_LightGBM_GPUvsCPU](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_LightGBM_GPUvsCPU.ipynb)
 41) [JARVIS_ML_TensorFlowExample](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TensorFlowExample.ipynb)
 42) [ALIGNN-GetTotalEnergy](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/GetTotalEnergy.ipynb)
