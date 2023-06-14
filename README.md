@@ -7,8 +7,6 @@
 * [FF/MC related tutorial](#es)
 * [AI tutorial](#ai)
 * [QC tutorial](#qc)
-* [APS tutorial](#aps)
-* [AIMS tutorial](#aims)
 * [References](#refs)
 * [How to contribute](#contrib)
 * [Correspondence](#corres)
