@@ -17,7 +17,7 @@
 
 <a name="intro"></a>
 # JARVIS-Tools Notebooks (Introduction)
-The JARVIS-Tools Notebooks is Collection of Jupyter/ Google-Colab notebooks to provide tutorials on various methods for materials design as well as to enhance reproducibility and transparency for scientific methods. It consists of several types of applications such as for electronic structure (ES), force-field (FF), Monte Carlo (MC), artificial intelligence (AI), quantum computation (QC) and experiments (EXP). These notebooks/similar notebooks were used for generating results in [various publications](https://jarvis-tools.readthedocs.io/en/master/publications.html) as well as in [JARVIS-Leaderboard](https://pages.nist.gov/jarvis_leaderboard/). This project is a part of the [NIST-JARVIS](https://jarvis.nist.gov/) infrastructure. A few more detailed tutorial are also available at: [https://jarvis-tools.readthedocs.io/en/master/tutorials.html](https://jarvis-tools.readthedocs.io/en/master/tutorials.html)
+The JARVIS-Tools Notebooks is a collection of Jupyter/ Google-Colab notebooks to provide tutorials on various methods for materials design. It consists of several types of applications such as for electronic structure (ES), force-field (FF), Monte Carlo (MC), artificial intelligence (AI), quantum computation (QC) and experiments (EXP). This project is a part of the [NIST-JARVIS](https://jarvis.nist.gov/) infrastructure. A few more detailed tutorial are also available at: [JARVIS-Tools](https://jarvis-tools.readthedocs.io/en/master/tutorials.html)
 
 
 <a name="basics"></a>
