@@ -86,18 +86,19 @@ The JARVIS-Tools Notebooks is Collection of Jupyter/ Google-Colab notebooks to p
 50) [JARVIS_ML_TrainingGPU](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TrainingGPU.ipynb)
 51) [JARVIS_STEM_2D](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_STEM_2D.ipynb)
 52) [JARVIS_Leaderboard_ALIGNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/alignn_jarvis_leaderboard.ipynb)
-53) [JARVIS_Leaderboard_KGCNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/kgcnn_jarvis_leaderboard.ipynb)
-54) [JARVIS_Leaderboard_MatMiner](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/MatMiner_on_JARVIS_DFT.ipynb)
-55) [ALIGNN-FF cubic relaxer](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Cubic_Crystal_Test.ipynb)
-56) [Open catalyst project load model](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ocp_load_pretrained_models.ipynb)
-57) [Vacancy formation ML](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/vacancy_ml.ipynb)
-58) [ALIGNN-FF catalyst adsorption energy](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/tinnet_O_ALIGNN_FF.ipynb)
+53) [ALIGNN-FF for energy and forces](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
+54) [JARVIS_Leaderboard_KGCNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/kgcnn_jarvis_leaderboard.ipynb)
+55) [JARVIS_Leaderboard_MatMiner](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/MatMiner_on_JARVIS_DFT.ipynb)
+56) [ALIGNN-FF cubic relaxer](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Cubic_Crystal_Test.ipynb)
+57) [Open catalyst project load model](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ocp_load_pretrained_models.ipynb)
+58) [Vacancy formation ML](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/vacancy_ml.ipynb)
+59) [ALIGNN-FF catalyst adsorption energy](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/tinnet_O_ALIGNN_FF.ipynb)
 
 <a name="qc"></a>
 # Quantum computation
 
-59) [With new qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_latest_qiskit.ipynb)
-60) [With old qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_.ipynb)
+60) [With new qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_latest_qiskit.ipynb)
+61) [With old qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_.ipynb)
 
 <a name="aps"></a>
 # APS2023 tutorial
