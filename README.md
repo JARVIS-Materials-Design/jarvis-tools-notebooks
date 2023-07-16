@@ -66,9 +66,9 @@ The JARVIS-Tools Notebooks is Collection of Jupyter/ Google-Colab notebooks to p
 # Force-field
 
 1) [JARVIS_LAMMPS](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_LAMMPS.ipynb)
-2) [Analyzing_MOF_datasets](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_MOF_datasets.ipynb)
 3) [MLFF SNAP training](https://colab.research.google.com/github/FitSNAP/FitSNAP/blob/master/tutorial.ipynb)
-4) [ALIGNN-FF for energy and forces](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
+3) [ALIGNN-FF for energy and forces](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
+4) [Analyzing_MOF_datasets](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_MOF_datasets.ipynb)
 
 <a name="ai"></a>
 # Artificial intelligence/Machine learning
