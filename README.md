@@ -61,6 +61,7 @@ The JARVIS-Tools Notebooks is a collection of Jupyter/ Google-Colab notebooks to
 28) [Run GPAW on Google-colab and calculate interface energy with jarvis-tools](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/GPAW_Colab.ipynb)
 29) [ParsingWebpages(JARVIS_DFT)](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ParsingWebpages(JARVIS_DFT).ipynb)
 30) [WTBH_MagneticMats.ipynb](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/WTBH_MagneticMats.ipynb)
+31) [ThreeBodyTB_julia.ipynb](https://colab.research.google.com/github/kfgarrity/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ThreeBodyTB_julia.ipynb)
 
 <a name="ff"></a>
 # Force-field
