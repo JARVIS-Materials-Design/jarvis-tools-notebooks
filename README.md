@@ -96,6 +96,7 @@ The JARVIS-Tools Notebooks is a collection of Jupyter/ Google-Colab notebooks to
 19) [Open catalyst project load model](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ocp_load_pretrained_models.ipynb)
 20) [Vacancy formation ML](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/vacancy_ml.ipynb)
 21) [ALIGNN-FF catalyst adsorption energy](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/tinnet_O_ALIGNN_FF.ipynb)
+22) [Inverse design of superconductors with CDVAE](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/cdvae_example.ipynb)
 
 <a name="qc"></a>
 # Quantum computation
