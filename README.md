@@ -22,6 +22,9 @@ The JARVIS-Tools Notebooks is a collection of Jupyter/ Google-Colab notebooks to
 
 <a name="basics"></a>
 # Basics
+
+A few preliminary notebooks before diving into materials design
+
 1) [Python beginners notebook](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/python_beginners_notebook.ipynb)
 2) [For absolute Beginners in ML using Python](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AIMS2022_Python_Basics.ipynb)
 3) [Silicon atomic structure and analysis example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Silicon_atomic_structure_and_analysis_example.ipynb)
@@ -29,6 +32,8 @@ The JARVIS-Tools Notebooks is a collection of Jupyter/ Google-Colab notebooks to
 
 <a name="es"></a>
 # Electronic structure
+
+Density functional theory, Tight-binding and Beyond-DFT methods using various software
 
 1) [Analyzing_data_in_the_JARVIS_DFT_dataset](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb)
 2) [Analyzing_data_in_the_JARVIS_Leaderboard](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_Leaderboard.ipynb)
@@ -61,7 +66,8 @@ The JARVIS-Tools Notebooks is a collection of Jupyter/ Google-Colab notebooks to
 28) [Run GPAW on Google-colab and calculate interface energy with jarvis-tools](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/GPAW_Colab.ipynb)
 29) [ParsingWebpages(JARVIS_DFT)](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ParsingWebpages(JARVIS_DFT).ipynb)
 30) [WTBH_MagneticMats.ipynb](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/WTBH_MagneticMats.ipynb)
-31) [ThreeBodyTB_julia.ipynb](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ThreeBodyTB_julia.ipynb)
+31) [QMCPACK_Basic_Example](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/QMCPACK_Basic_Example.ipynb)
+    
 
 <a name="ff"></a>
 # Force-field
@@ -75,29 +81,41 @@ The JARVIS-Tools Notebooks is a collection of Jupyter/ Google-Colab notebooks to
 <a name="ai"></a>
 # Artificial intelligence/Machine learning
 
-1) [CIF To Graph_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/cif2graph.ipynb)
-2) [JARVIS_ALIGNN_Training_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Training_ALIGNN_model_example.ipynb)
+AI models for chemical formula, atomic structures, image and text for both forward and inverse design. Some of the methods include descriptor/feature based, graph based and transformers based designs.
+
+1) [Analyzing data in JARVIS-Leaderboard](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_Leaderboard.ipynb)
+2) [ML_Chem_Formula_Descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_Magpie_AIMS.ipynb)
 3) [Simple_Machine_learning_training_example_with_CFID_descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Machine_learning_training_example_with_CFID_descriptors.ipynb)
-4) [ML_Chem_Formula_Descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_Magpie_AIMS.ipynb)
-5) [AtomVision_Leaderboard_Example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionImageClassification.ipynb)
-6) [AtomVision_Example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb)
-7) [ChemNLP example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ChemNLP_Example.ipynb)
-8) [ChemNLP HuggingFace example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ChemNLP_TitleToAbstract.ipynb)
-9) [JARVIS_ML_LightGBM_GPUvsCPU](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_LightGBM_GPUvsCPU.ipynb)
-10) [JARVIS_ML_TensorFlowExample](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TensorFlowExample.ipynb)
-11) [ALIGNN-GetTotalEnergy](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/GetTotalEnergy.ipynb)
-12) [ALIGNN-PhononDos](https://colab.research.google.com/github/JARVIS-Materials-Design/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ALIGNN_PhononDOS.ipynb)
-13) [JARVIS_ML_TrainingGPU](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TrainingGPU.ipynb)
-14) [JARVIS_STEM_2D](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_STEM_2D.ipynb)
-15) [JARVIS_Leaderboard_ALIGNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/alignn_jarvis_leaderboard.ipynb)
-16) [JARVIS_Leaderboard_KGCNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/kgcnn_jarvis_leaderboard.ipynb)
-17) [JARVIS_Leaderboard_MatMiner](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/MatMiner_on_JARVIS_DFT.ipynb)
-18) [ALIGNN-FF cubic relaxer](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Cubic_Crystal_Test.ipynb)
-19) [Open catalyst project load model](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ocp_load_pretrained_models.ipynb)
-20) [Vacancy formation ML](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/vacancy_ml.ipynb)
-21) [ALIGNN-FF catalyst adsorption energy](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/tinnet_O_ALIGNN_FF.ipynb)
-22) [ALIGNN Superconductor training](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ALIGNN_Sc.ipynb)
+4) [JARVIS_ML_TrainingGPU](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TrainingGPU.ipynb)
+5) [JARVIS_CFID_LightGBM_GPUvsCPU](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_LightGBM_GPUvsCPU.ipynb)
+6) [JARVIS_ML_TensorFlowExample](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TensorFlowExample.ipynb)
+7) [JARVIS_Leaderboard_MatMiner](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/MatMiner_on_JARVIS_DFT.ipynb)
+8) [CIF To Graph_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/cif2graph.ipynb) 
+9) [JARVIS_ALIGNN_Basic_Training_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Training_ALIGNN_model_example.ipynb)
+10) [JARVIS_Leaderboard_contribution_ALIGNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/alignn_jarvis_leaderboard.ipynb)
+11) [JARVIS_Leaderboard_MLFF/ALIGNN-FF for Silicon](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
+12) [JARVIS_Leaderboard_KGCNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/kgcnn_jarvis_leaderboard.ipynb)
+13) [ALIGNN Superconductor training](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ALIGNN_Sc.ipynb)
+14) [Train ALLEGRO-FF for Silicon](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_MLFF_ALLEGRO.ipynb)
+15) [Train NEQUIP-FF for Silicon](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_MLFF_NEQUIP.ipynb)
+16) [Train CHGNet-FF for Silicon](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_CHGNet.ipynb)
+17) [MatGL-FF_Mlearn for Silicon](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Matgl_mlearn.ipynb)
+18) [SNAP-FF_Mlearn for Silicon](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/snap_mlearn.ipynb)
+19) [Pretrained CHGNet Prediction](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/chgnet_prediction.ipynb)
+20) [Pretrained OpenCatalystProject Model](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ocp_load_pretrained_models.ipynb)
+21) [ALIGNN-Pretrained property-predictor models](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/GetTotalEnergy.ipynb)
+22) [ALIGNN-PhononDos](https://colab.research.google.com/github/JARVIS-Materials-Design/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ALIGNN_PhononDOS.ipynb)
 23) [Inverse design of superconductors with CDVAE](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/cdvae_example.ipynb)
+24) [JARVIS_STEM_2D](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_STEM_2D.ipynb)
+25) [AtomVision_Leaderboard_Example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionImageClassification.ipynb)
+26) [AtomVision_Example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb)
+27) [ChemNLP example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ChemNLP_Example.ipynb)
+28) [ChemNLP HuggingFace example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ChemNLP_TitleToAbstract.ipynb)
+29) [ALIGNN-FF cubic relaxer](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Cubic_Crystal_Test.ipynb)
+30) [Open catalyst project load model](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ocp_load_pretrained_models.ipynb)
+31) [Vacancy formation ML](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/vacancy_ml.ipynb)
+32) [Basic external tutorial on linear models](training_linear_models)
+
 
 <a name="qc"></a>
 # Quantum computation
