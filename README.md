@@ -85,7 +85,7 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 
 1) [Analyzing data in JARVIS-Leaderboard](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_Leaderboard.ipynb)
 2) [ML_Chem_Formula_Descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_Magpie_AIMS.ipynb)
-3) [Simple_Machine_learning_training_example_with_CFID_descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Machine_learning_training_example_with_CFID_descriptors.ipynb)
+3) [Basic_Machine_learning_training_example_with_CFID_descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Machine_learning_training_example_with_CFID_descriptors.ipynb)
 4) [JARVIS_ML_TrainingGPU](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TrainingGPU.ipynb)
 5) [JARVIS_CFID_LightGBM_GPUvsCPU](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_LightGBM_GPUvsCPU.ipynb)
 6) [JARVIS_ML_TensorFlowExample](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TensorFlowExample.ipynb)
