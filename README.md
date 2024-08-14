@@ -154,7 +154,7 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 
 5. While the above MLFF was trained for single element system, a more generalized model was developed with JARVIS-DFT diverse dataset, and the developed model can be used for fast atomic structure optimization and phonon etc. property predicions
 
-[ALIGNN-FF for energy and forces](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
+[ALIGNN-FF Unified force-field structure relaxation](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
 
 6. While the above ML models were for forward design, we can use somthing like AtomGPT for inverse design as well
 
