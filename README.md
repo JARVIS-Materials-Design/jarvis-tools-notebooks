@@ -132,7 +132,7 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 
 <a name="nanohub"></a>
 
-# Nanohub Purdue university FAIR workflow workshop/JARVIS-School 
+# NanoHub FAIR workflow workshop/JARVIS-School @ Purdue university
 
 [https://nanohub.org/FAIR_workshop_2024](https://nanohub.org/FAIR_workshop_2024)
 
