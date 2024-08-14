@@ -8,6 +8,7 @@
 * [JARVIS-School](#school)
 * [AI tutorial](#ai)
 * [QC tutorial](#qc)
+* [NanoHub tutorial](#nanohub)
 * [References](#refs)
 * [How to contribute](#contrib)
 * [Correspondence](#corres)
@@ -112,10 +113,13 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 27) [AtomVision_Example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb)
 28) [ChemNLP example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ChemNLP_Example.ipynb)
 29) [ChemNLP HuggingFace example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ChemNLP_TitleToAbstract.ipynb)
-30) [AtomGPT example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example.ipynb)
-31) [Open catalyst project load model](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ocp_load_pretrained_models.ipynb)
-32) [Vacancy formation ML](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/vacancy_ml.ipynb)
-33) [Basic external tutorial on linear models](training_linear_models)
+30) [AtomGPT training example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example.ipynb)
+31) [AtomGPT HuggingFace inference example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example_huggingface.ipynb)
+32) [Open catalyst project load model](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ocp_load_pretrained_models.ipynb)
+33) [Vacancy formation ML](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/vacancy_ml.ipynb)
+34) [Interface Materials Design/InterMat example](https://colab.research.google.com/gist/knc6/0d9aa89f671687c6e925eea2be9b824a/intermat_gettingstarted.ipynb)
+35) [ALIGNN-FF Unified force-field structure relaxation](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
+36) [Basic external tutorial on linear models](training_linear_models)
 
 
 <a name="qc"></a>
@@ -123,6 +127,52 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 
 1) [With new qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_latest_qiskit.ipynb)
 2) [With old qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_.ipynb)
+
+
+
+<a name="nanohub"></a>
+
+# Nanohub Purdue university FAIR workflow workshop/JARVIS-School 
+
+[https://nanohub.org/FAIR_workshop_2024](https://nanohub.org/FAIR_workshop_2024)
+
+1. Learn a basic DFT calculation
+   
+[Basic quantum espresso run](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_QuantumEspressoColab_Basic_Example.ipynb)
+
+2. Once you run a lot of these, you can make a database, and analyze trends (Exploratory Data Analysis)
+   
+[Analyzing_data_in_the_JARVIS_DFT_dataset](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb)
+
+3. These datasets can also be used to develop fast surrogate machine learning models
+   
+[JARVIS_Leaderboard_contribution_ALIGNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/alignn_jarvis_leaderboard.ipynb)
+
+4. Beyond single property prediction models, they can be used to train machine-learning force-fields as well
+
+[ALIGNN-FF for energy and forces](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
+
+5. While the above MLFF was trained for single element system, a more generalized model was developed with JARVIS-DFT diverse dataset, and the developed model can be used for fast atomic structure optimization and phonon etc. property predicions
+
+[ALIGNN-FF Unified force-field structure relaxation](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
+
+6. While the above ML models were for forward design, we can use somthing like AtomGPT for inverse design as well
+
+[AtomGPT training example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example.ipynb)
+
+[AtomGPT HuggingFace inference example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example_huggingface.ipynb)
+    
+7. Other optional notebooks for the tutorial session
+
+[AtomVision_Example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionExample.ipynb)
+
+[JARVIS_LAMMPS](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_LAMMPS.ipynb)
+
+[With new qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_latest_qiskit.ipynb)
+   
+# AIMS2024 tutorial and presentation slides
+
+[https://github.com/usnistgov/aims2024_workshop](https://github.com/usnistgov/aims2024_workshop)
 
 <a name="school"></a>
 # JARVIS-School
