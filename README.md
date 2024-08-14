@@ -140,7 +140,7 @@ AI models for chemical formula, atomic structures, image and text for both forwa
    
 [Basic quantum espresso run](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_QuantumEspressoColab_Basic_Example.ipynb)
 
-2. Once you run a lot of these, you can make a database, and analyze trends (Exploratory Data Analysis)
+2. Once you run a lot of these, you can make a database, and analyze trends (AKA Exploratory Data Analysis)
    
 [Analyzing_data_in_the_JARVIS_DFT_dataset](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb)
 
@@ -152,11 +152,11 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 
 [ALIGNN-FF for energy and forces](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
 
-5. While the above MLFF was trained for single element system, a more generalized model was developed with JARVIS-DFT diverse dataset, and the developed model can be used for fast atomic structure optimization and phonon etc. property predicions
+5. While the above MLFF was trained for single element system, a more generalized model was developed with JARVIS-DFT diverse dataset, and the developed model can be used for fast atomic structure optimization and phonon etc. property predictions
 
 [ALIGNN-FF Unified force-field structure relaxation](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
 
-6. While the above ML models were for forward design, we can use somthing like AtomGPT for inverse design as well
+6. While the above ML models were for forward design, we can use AtomGPT for inverse design as well
 
 [AtomGPT training example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example.ipynb)
 
@@ -168,7 +168,7 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 
 [JARVIS_LAMMPS](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_LAMMPS.ipynb)
 
-[With new qiskit package version: Quantum computation and Qiskit based electronic bandstructure](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_latest_qiskit.ipynb)
+[Quantum computation and Qiskit based electronic bandstructure](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Qiskit_based_electronic_bandstructure_latest_qiskit.ipynb)
    
 # AIMS2024 tutorial and presentation slides
 
