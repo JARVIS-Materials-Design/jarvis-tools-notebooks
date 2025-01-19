@@ -85,7 +85,7 @@ Density functional theory, Tight-binding and Beyond-DFT methods using various so
 
 AI models for chemical formula, atomic structures, image and text for both forward and inverse design. Some of the methods include descriptor/feature based, graph based and transformers based designs.
 
-1) [Analyzing data in JARVIS-Leaderboard](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_Leaderboard.ipynb)
+1) [ML Sklearn Steel Fatigue](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ML_Sklearn.ipynb)  
 2) [ML_Chem_Formula_Descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_Magpie_AIMS.ipynb)
 3) [Basic_Machine_learning_training_example_with_CFID_descriptors](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Machine_learning_training_example_with_CFID_descriptors.ipynb)
 4) [JARVIS_ML_TrainingGPU](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_ML_TrainingGPU.ipynb)
@@ -121,6 +121,7 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 34) [Interface Materials Design/InterMat example](https://colab.research.google.com/gist/knc6/0d9aa89f671687c6e925eea2be9b824a/intermat_gettingstarted.ipynb)
 35) [ALIGNN-FF Unified force-field structure relaxation](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
 36) [Basic external tutorial on linear models](training_linear_models)
+37) [Analyzing data in JARVIS-Leaderboard](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_Leaderboard.ipynb)
 
 
 <a name="qc"></a>
