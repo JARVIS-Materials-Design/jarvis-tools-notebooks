@@ -28,8 +28,7 @@ A few preliminary notebooks before diving into materials design
 
 1) [Introduction to high-performance computing](https://tacc-reproducible-intro-hpc.readthedocs.io/en/latest/intro_to_hpc/overview.html)
 2) [Python beginners notebook](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/python_beginners_notebook.ipynb)
-3) [For absolute Beginners in ML using Python](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AIMS2022_Python_Basics.ipynb)
-4) [Silicon atomic structure and analysis example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Silicon_atomic_structure_and_analysis_example.ipynb)
+3) [Silicon atomic structure and analysis example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Simple_Silicon_atomic_structure_and_analysis_example.ipynb)
 
 
 <a name="es"></a>
