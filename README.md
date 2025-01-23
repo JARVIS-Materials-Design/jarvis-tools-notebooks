@@ -119,7 +119,7 @@ AI models for chemical formula, atomic structures, image and text for both forwa
 32) [Open catalyst project load model](https://github.com/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ocp_load_pretrained_models.ipynb)
 33) [Vacancy formation ML](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/vacancy_ml.ipynb)
 34) [Interface Materials Design/InterMat example](https://colab.research.google.com/gist/knc6/0d9aa89f671687c6e925eea2be9b824a/intermat_gettingstarted.ipynb)
-35) [ALIGNN-FF Unified force-field structure relaxation](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb)
+35) [ALIGNN-FF Unified force-field structure relaxation/Phonons/Interface](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/ALIGNN_Structure_Relaxation_Phonons_Interface.ipynb)
 36) [Basic external tutorial on linear models](training_linear_models)
 37) [Analyzing data in JARVIS-Leaderboard](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_Leaderboard.ipynb)
 
