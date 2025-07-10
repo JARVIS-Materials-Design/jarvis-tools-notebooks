@@ -1,5 +1,9 @@
 ![alt text](https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks/actions/workflows/test-notebooks.yml/badge.svg)
 
+
+⚠️ This repository is no longer maintained.
+For the latest updates and continued development, please visit: https://github.com/atomgptlab/jarvis-tools-notebooks
+
 # Table of Contents
 * [Introduction](#intro)
 * [Basics](#basics)
